@@ -20,4 +20,4 @@ for (i=0; i < annualExpenseQuestions.length; i++)
     let annual = parseFloat (window.prompt (annualExpenseQuestions[i]))
     annualExpenses = annualExpenses + annual
 }
-totalAnnualExpenses = weeklyExpenses + monthlyExpenses + annualExpenses
+//totalAnnualExpenses = weeklyExpenses + monthlyExpenses + annualExpenses
